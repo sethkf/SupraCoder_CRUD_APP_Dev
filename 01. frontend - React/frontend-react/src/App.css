@@ -1,0 +1,27 @@
+.totalContainer {
+    display: flex;
+    width: 100%;
+    color: #102C57;
+}
+
+/* Left Navigation Pane Items */
+.leftNavPane {
+    height: 100vh;
+    width: 300px;
+    min-width: 250px;
+    max-width: 350px;
+    background-color: #DAC0A3;
+    text-align: center;
+    background-size: cover;
+    align-content: center;
+}
+
+/* Content Window */
+.contentWindow {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    background-color: #FEFAF6;
+    justify-content: center;
+    overflow: scroll;
+}

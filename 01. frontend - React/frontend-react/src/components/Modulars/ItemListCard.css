@@ -1,0 +1,22 @@
+.itemListCard {
+    border: 1px solid transparent;
+    margin: 1rem;
+    padding-top: 0.75rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width:auto;
+    border-radius: 1rem;
+    background-color: #EADBC8;
+    transition: 0.3s;
+}
+.itemListCard:hover {
+    background-color: #102C57;
+    color: #FEFAF6;
+    cursor: pointer;
+}
+
+.itemListCard_itemName {
+    font-size: 16pt;
+    font-weight: bold;
+}

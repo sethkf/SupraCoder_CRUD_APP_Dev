@@ -1,0 +1,77 @@
+.notLoggedInPage {
+    align-items: center;
+    text-align: center;
+}
+
+.addListingTotalContainer {
+    align-content: center;
+    justify-content: center;
+    width: 80%
+}
+
+.addListingSubContainer{
+    border-radius: 20px;
+    background-color: #EADBC8;
+    padding: 2rem
+}
+
+.pageTitle {
+    font-family: Helvetica;
+    font-size: 28pt;
+    padding: 20px;
+    text-align: center;
+}
+
+.entryLabel {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.entryField {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    width: 100%;
+    resize: none;
+    border-radius:5px;
+    background-color: #DAC0A3;
+    border: 1px solid #DAC0A3;
+    font-size: 14pt;
+    font-family: Helvetica;
+}
+
+.charRemaining {
+    font-size: 10pt;
+    margin-bottom:5px;
+}
+
+.submitButton {
+    background-color: #DAC0A3;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14pt;
+    margin: 30px;
+}
+
+.buttonContainer {
+    text-align: center;
+}
+
+.errorMessage {
+    color: darkred;
+    text-align: center;
+}
+
+#input_item_description {
+    margin-bottom:0px;
+}
+
+.submitButton:hover {
+    background-color: #102C57;
+    color: #FEFAF6;
+    cursor: pointer;
+}

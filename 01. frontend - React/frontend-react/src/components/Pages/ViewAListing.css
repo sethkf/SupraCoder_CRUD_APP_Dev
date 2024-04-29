@@ -1,0 +1,68 @@
+.viewListingContainer {
+    align-self: center;
+    border: 1px solid;
+    width: 80%;
+    height: auto;
+    align-content: center;
+    padding: 1rem;
+    word-wrap: break-word;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background-color: #EADBC8;
+}
+
+.listingDetailContainer {
+    margin: 1rem;
+    padding-left: 1rem;
+    padding-right: 2rem;
+}
+
+.listingDetailLabel {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.listingDetailData {
+    font-size: 14pt;
+}
+
+.editListingField {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    width: 100%;
+    resize: none;
+    border-radius:5px;
+    background-color: #DAC0A3;
+    border: 1px solid #DAC0A3;
+    font-size: 14pt;
+    font-family: Helvetica;
+}
+
+.buttonsContainer {
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    padding: 1rem;
+    padding-top: 0rem;
+}
+
+.editButton {
+    background-color: #DAC0A3;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 14pt;
+    transition:.3s;
+}
+
+.editButton:hover {
+    background-color: #102C57;
+    color: #FEFAF6;
+    cursor: pointer;
+}
