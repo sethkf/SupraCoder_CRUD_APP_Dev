@@ -12,8 +12,8 @@ const pgp = require("pg-promise")();
 const pgp_login = {
     host: 'localhost',
     port: 5432,
-    database: "CameraSite",
-    user: "CRUD_app",
+    database: "InvMgmt",
+    user: "postgres",
     password: "password"
 }
 const db = pgp(pgp_login);
