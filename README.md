@@ -4,7 +4,7 @@ Hello there! Thank you for viewing the CRUD app for Seth Finley.
 
 This REPO is split into two parts, with one folder being the backend using ExpressJS and one being the front end using React. The instructions for the database setup are included in Step 01 below.
 
-It is recommended that you clone this repo in its entirety, install PostGreSQL on your machine on port 5432 and making note of the password created for the default superuser (username: postgres), and then follow the instructions below for the best experience setting up the database, backend, and front end.
+It is recommended that you clone this repo in its entirety, install PostGreSQL on your machine on port 5432 and make note of the password created for the default superuser (username: postgres), and then follow the instructions below for the best experience setting up the database, backend, and front end.
 
 
 --------------------------------------------------------------------------------------------
