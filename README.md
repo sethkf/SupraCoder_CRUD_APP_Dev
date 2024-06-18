@@ -17,7 +17,7 @@ psql -U postgres
 
 And press enter. When you set up the PostgreSQL on your computer, you created a password that was assigned to the user "postgres". This is what you will need to enter when next prompted for the password. You should be in the postgres CLI environment, normally denoted by "postgres=#" before your text entry. You will want to run the following commands to setup our environment.
 
-a. First run the command to create our database(and make sure to include the semicolon). Feel free to copy and paste into the CLI:
+a. First run the command to create our database (and make sure to include the semicolon). Feel free to copy and paste into the CLI:
 
 CREATE DATABASE "InvMgmt";
 
