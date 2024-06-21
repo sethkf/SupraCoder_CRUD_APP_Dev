@@ -1,4 +1,4 @@
-# SupraCoder_CRUD_APP_Dev
+# Seth Finley's Supracoder CRUD App Submission
 
 Hello there! Thank you for viewing the CRUD app for Seth Finley.
 
